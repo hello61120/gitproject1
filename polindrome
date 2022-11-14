@@ -1,5 +1,5 @@
 #polindrome string
-string = javaj
+string = 'javaj'
 string = str.casefold()
 #this is string revers
 r = reversed(str)
